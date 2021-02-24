@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.top {
+  background-attachment: scroll;
+  position: relative;
+}
+
+.top {
+  position: fixed;
+  border-radius: 8px;
+  bottom: 5px;
+  right: 10px;
+  -webkit-box-shadow: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25), 0.125em 0.125em 0.125em rgba(0, 0, 0, 0.15);
+          box-shadow: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25), 0.125em 0.125em 0.125em rgba(0, 0, 0, 0.15);
+}
+/*# sourceMappingURL=main.css.map */

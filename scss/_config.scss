@@ -1,0 +1,20 @@
+// reset 
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.top {
+    background-attachment: scroll;
+    position: relative;
+}
+
+.top {
+    position: fixed;
+    border-radius: 8px;
+    bottom: 5px;
+    right: 10px;
+    box-shadow: $bs;
+}
